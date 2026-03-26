@@ -1,0 +1,25 @@
+„Droga wiadomości”
+
+W Twojej aplikacji rodzi się wiadomość.
+Krótka, zwyczajna — ale ktoś musi zdecydować, co się z nią stanie dalej.
+
+Najpierw pojawia się kronikarz.
+Jego zadaniem jest zapisać, że coś się wydarzyło.
+Może mówić do konsoli, a może szeptać do pliku.
+
+Potem przychodzi archiwista.
+On przechowuje wiadomości na dłużej.
+Może zapisać je w bazie danych, albo odłożyć do pamięci aplikacji.
+
+Klasa, która obsługuje wiadomość, nie zna ich twarzy.
+Zna tylko ich role — obietnice zapisane w interfejsach.
+
+To ktoś z zewnątrz zdecyduje,
+który kronikarz i który archiwista zostaną zaproszeni do współpracy.
+
+Dodatkowo musi być rola, która tą wiadomość udostępni. Rola to serwis, więc może być, ale nie musi.
+Rola może, rola ma możliwość, nie jest wymuszona jak praca końcówek układu pokarmowego.
+
+Na końcu orszaku królewskiego idzie Implementacja "Wszystko", która musi mieć wiadomość i nie chce wchodzić
+w tryby Wincentego Kadłubka i Ibrahima ibn Jakuba - słynnych skrybów. Życząc im powodzenia Wszystko dodaje role,
+ale delikatnie, jak świeży powiew bryzy, w metodzie, spokojnej narracji, wieloznacznej nieoczywistości.
